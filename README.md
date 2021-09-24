@@ -1,3 +1,5 @@
 # gitExample
 
-this is an example for using git / github.
+This is an example for using git / github.
+
+Some changes happened.
